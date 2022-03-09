@@ -11,6 +11,11 @@
     color: #333;
   }
   
+  .alert-text{
+    font-size:1.8rem;
+    font-family: 'Poppins',sans-serif;
+  }
+
   h1,
   h2,
   h3,
