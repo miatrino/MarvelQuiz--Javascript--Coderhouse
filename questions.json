@@ -1,0 +1,290 @@
+[
+{
+    "question":"¿En qué año se estrenó la primera película de Iron Man, que lanzó el Marvel Cinematic Universe?",
+    "choice1": "2005",
+    "choice2": "2006",
+    "choice3": "2008",
+    "choice4": "2010",
+    "answer":  3
+  },
+  {
+      "question":"¿Cómo se llama el martillo de Thor?",
+      "choice1": "Vanir",
+      "choice2": "Mjolnir",
+      "choice3": "Aesir",
+      "choice4": "Jonathan",
+      "answer":  2
+    },
+    {
+    "question":"En The Incredible Hulk, ¿qué le dice Tony a Thaddeus Ross al final de la película?",
+    "choice1": "Que quiere estudiar a Hulk",
+    "choice2": "Que él sabe sobre SHIELD",
+    "choice3": "Que están formando un equipo",
+    "choice4": "Que Thaddeus le debe dinero",
+    "answer":  3
+    },
+    {
+    "question": "¿De qué está hecho el escudo del Capitán América?",
+    "choice1": "Adamantium",
+    "choice2": "Vibranio",
+    "choice3": "Prometeo",
+    "choice4": "Carbonadio",
+    "answer":  2
+    },
+    {
+    "question":" Los Flerkens son una raza de alienígenas extremadamente peligrososas ¿qué se parece a que animal?",
+    "choice1": "Gatos",
+    "choice2": "Patos",
+    "choice3": "Reptiles",
+    "choice4": "Mapaches",
+    "answer":  1
+    },
+    {
+    "question": "Antes de convertirse en Visión, ¿cómo se llama el mayordomo de inteligencia artificial de Iron Man?",
+    "choice1":"HOMERO",
+    "choice2":"JARVIS",
+    "choice3":"ALFRED",
+    "choice4":"MARVIN",
+    "answer":  2
+    },
+    {
+    "question":"¿Cuál es el verdadero nombre de la Pantera Negra?",
+    "choice1": "T'Challa",
+    "choice2": "M'Baku",
+    "choice3": "N'Jadaka",
+    "choice4": "N'Jobu",
+    "answer":  1
+    },
+    {
+    "question":"¿Cuál es la raza alienígena que Loki envía para invadir la Tierra en The Avengers?",
+    "choice1":"Chitauris",
+    "choice2":"Skrulls",
+    "choice3":"Krees",
+    "choice4":"Flerkens",
+    "answer": 1
+    },
+    {
+    "question":"¿Quién fue el último titular de la Gema del Espacio antes de que Thanos lo reclame para su Guantelete?",
+    "choice1": "Thor",
+    "choice2": "Loki",
+    "choice3": "El coleccionista",
+    "choice4": "Tony Stark",
+    "answer":  2
+    },
+    {
+    "question":"¿Qué nombre falso usa Natasha cuando conoce a Tony por primera vez?",
+    "choice1": "Natalie Rushman",
+    "choice2": "Natalia Romanoff",
+    "choice3": "Nicole Rohan",
+    "choice4": "Naya Rabe",
+    "answer":  1
+    },
+    {
+    "question":"¿Cuál es la identidad de Spider-man?",
+    "choice1": "Flash Thompson",
+    "choice2": "Harry Osborn",
+    "choice3": "Peter Parker",
+    "choice4": "Vin Gonzáles",
+    "answer":  3
+    },
+    {
+    "question":"¿Quién es conocido como el 'El hombre sin miedo'?",
+    "choice1": "Mister Fear",
+    "choice2": "Punisher",
+    "choice3": "Iron Man",
+    "choice4": "Daredevil",
+    "answer":  4
+    },
+    {
+    "question":"¿Cuál equipo es llamado 'LOS HEROES MAS PODEROSOS DE LA TIERRA'?",
+    "choice1": "Los Cuatros Fantásticos",
+    "choice2": "Avengers",
+    "choice3": "X-Men",
+    "choice4": "Defenders",
+    "answer":  2
+    },
+    {
+    "question":"¿En que año comienza la película 'Capitán América: El Primer Vengador'?",
+    "choice1": "1942",
+    "choice2": "1947",
+    "choice3": "1945",
+    "choice4": "1950",
+    "answer":  1
+    },
+    {
+    "question":"¿Qué 'Gema del infinito' contiene el Tesseracto?",
+    "choice1": "Gema del Poder",
+    "choice2": "Gema del Espacio",
+    "choice3": "Gema de la Mente",
+    "choice4": "Gema del Alma",
+    "answer":  2
+    },
+    {
+    "question":"¿En qué película aparece por primera vez 'Nick Fury'?",
+    "choice1": "Iron Man ",
+    "choice2": "Capitán América: El primer vengador",
+    "choice3": "The Avengers: Los Vengadores",
+    "choice4": "Thor",
+    "answer":  1
+    },
+    {
+    "question":"¿Quién NO fue uno de los fundadores de S.H.I.E.L.D. ?",
+    "choice1": "Howard Stark",
+    "choice2": "Hank Pym",
+    "choice3": "Peggy Carter",
+    "choice4": "Chester Phillips",
+    "answer":  2
+    },
+    {
+    "question":"¿Cuál es la última película de la 'Fase Uno'?",
+    "choice1": "Thor",
+    "choice2": "The Avengers: Los Vengadores",
+    "choice3": "Capitán América: El primer Vengador",
+    "choice4": "Guardianes de la Galaxia",
+    "answer":  2
+    },
+    {
+    "question":"¿Qué 'Gema del infinito' contiene el 'Cetro de Loki'?",
+    "choice1": "Gema del Alma",
+    "choice2": "Gema de la Realidad",
+    "choice3": "Gema de la Mente",
+    "choice4": "Gema del Poder",
+    "answer":  3
+    },
+    {
+    "question":"¿Quién cierra el portal de New York con el 'Cetro de Loki'?",
+    "choice1": "Clint Barton",
+    "choice2": "Natasha Romanoff",
+    "choice3": "Thor Odinson",
+    "choice4": "Tony Stark",
+    "answer":  2
+    },
+    {
+    "question":"¿En qué película aparece por primera vez Thanos?",
+    "choice1": "Capitán América: El Primer Vengador",
+    "choice2": "Guardianes de la Galaxia",
+    "choice3": "The Avengers: Los Vengadores",
+    "choice4": "Thor",
+    "answer":  3
+    },
+    {
+    "question":"¿Con qué película inicia la 'Fase Dos'?",
+    "choice1": "Iron Man 2",
+    "choice2": "Thor: Un Mundo Oscuro",
+    "choice3": "Iron Man 3",
+    "choice4": "Capitán América y El Soldado del invierno",
+    "answer":  3
+    },
+    {
+    "question":"¿Comó se hace llamar el supuesto terrorista que vemos en Iron Man 3?",
+    "choice1": "El Mandarín",
+    "choice2": "Obadiah Stane",
+    "choice3": "El Fantasma",
+    "choice4": "El Hombre Negativo",
+    "answer":  1
+    },
+    {
+    "question":"¿Quién tiene una visión de todos los Vengadores muertos en 'La Era de Ultrón'?",
+    "choice1": "Steve Rogers",
+    "choice2": "Tony Stark",
+    "choice3": "Bruce Banner",
+    "choice4": "Wanda Maximoff",
+    "answer":  2
+    },
+    {
+    "question":"¿Quién tortura al Doctor Strange matándolo cientos de veces dentro de un bucle de tiempo creado por Strange?",
+    "choice1": "Kaecilius",
+    "choice2": "Barón Mordo",
+    "choice3": "Dormammu",
+    "choice4": "Pesadilla",
+    "answer":  3
+    },
+    {
+    "question":"¿Qué gema contiene el Orbe?",
+    "choice1": "Gema del Poder",
+    "choice2": "Gema del Alma",
+    "choice3": "Gema de la Realidad",
+    "choice4": "Gema del Espacio",
+    "answer":  1
+    },
+    {
+    "question":"¿En qué película vemos por primera vez a Black Panther?",
+    "choice1": "Black Panther",
+    "choice2": "Avengers: Infinity War",
+    "choice3": "Capitán América: Civil War",
+    "choice4": "Capitán América y El Soldado del invierno",
+    "answer":  3
+    },
+    {
+    "question":"¿En dondé se localiza el Sanctum Sanctorum que custodia Doctor Strange?",
+    "choice1": "Londres",
+    "choice2": "Berlin",
+    "choice3": "New York",
+    "choice4": "Hong Kong",
+    "answer":  3
+    },
+    {
+    "question":"¿Con qué están fabricando armas Toomes y su equipo?",
+    "choice1": "Con tecnología Stark",
+    "choice2": "Con Vibranium",
+    "choice3": "Con Tecnología Chitauri",
+    "choice4": "Con Tecnología de S.H.I.E.L.D.",
+    "answer":  3
+    },
+    {
+    "question":"¿Qué alias utiliza Adrian Toomes?",
+    "choice1": "El Águila",
+    "choice2": "El Buitre",
+    "choice3": "El Cuervo",
+    "choice4": "El Halcón",
+    "answer":  2
+    },
+    {
+    "question":"¿Comó se llama el creador del 'Guantalete del infinito'?",
+    "choice1": "Eitri",
+    "choice2": "Odín",
+    "choice3": "Ditri",
+    "choice4": "Dimitri",
+    "answer":  1
+    },
+    {
+    "question":"¿Quién sabe la localización de la 'Gema del Alma'?",
+    "choice1": "Nebula",
+    "choice2": "Gamora",
+    "choice3": "Drax",
+    "choice4": "Thanos",
+    "answer":  2
+    },
+    {
+    "question":"¿A donde se transporta Thanos despues de chasquear los dedos?",
+    "choice1": "El Jardín",
+    "choice2": "El Paraíso",
+    "choice3": "El Hogar",
+    "choice4": "El Eden",
+    "answer":  1
+    },
+    {
+    "question":"¿Cuantos años estuvo Scott atrapado en el Mundo Cuántico tras el chasquido de Thanos?",
+    "choice1": "Un año",
+    "choice2": "Tres años",
+    "choice3": "Cinco años",
+    "choice4": "Diez años",
+    "answer":  3
+    },
+    {
+    "question":"¿Quién se encarga de llevar el 'Cetro de Loki' cuando vuelven al 2012?",
+    "choice1": "Tony Stark",
+    "choice2": "Steve Rogers",
+    "choice3": "Scott Lang",
+    "choice4": "Bruce Banner",
+    "answer":  2
+    },
+    {
+    "question":"¿Cuál es la última escena que se ve en Avengers:Endgame?",
+    "choice1": "Steve Rogers dandole el escudo a Sam Wilson",
+    "choice2": "El funeral de Tony Stark",
+    "choice3": "Steve Rogers bailando con Peggy Carter",
+    "choice4": "Tony Stark chasqueando los dedos",
+    "answer":  3
+    }
+]
